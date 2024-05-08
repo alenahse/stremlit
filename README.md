@@ -27,4 +27,5 @@ df = pd.read_csv("my_data.csv")
 st.line_chart(df)
 ```
 *результат*:
+
 ![photo1715182030](https://github.com/alenahse/stremlit/assets/154060585/8557ba21-32c8-4c9f-a099-4ac9c801567d)
